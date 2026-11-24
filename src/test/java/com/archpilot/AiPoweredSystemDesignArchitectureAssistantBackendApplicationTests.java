@@ -1,4 +1,4 @@
-package org.example.aipowereddesigntbackend;
+package com.archpilot;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
